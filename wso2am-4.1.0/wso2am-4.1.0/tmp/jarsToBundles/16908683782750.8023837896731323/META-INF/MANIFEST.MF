@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+DynamicImport-Package: *
+Bundle-ManifestVersion: 2
+Bundle-Name: mysql_connector_j_8.1.0_1.0.0
+Bundle-SymbolicName: mysql_connector_j_8.1.0_1.0.0
+Bundle-Version: 1.0.0
+Export-Package: 
+Bundle-ClassPath: .,mysql_connector_j_8.1.0_1.0.0.jar
+

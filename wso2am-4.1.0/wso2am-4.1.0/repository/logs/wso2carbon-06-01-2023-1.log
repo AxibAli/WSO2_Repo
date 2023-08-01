@@ -1,0 +1,537 @@
+TID: [-1234] [] [2023-06-01 05:25:12,454]  INFO {org.wso2.carbon.identity.application.authentication.framework.store.SessionCleanUpService} - Session Data cleanup task is running successfully for removing expired Data
+TID: [-1234] [] [2023-06-01 22:24:42,734] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,734] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,734] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,742] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,742] ERROR {org.wso2.andes.server.protocol.AMQProtocolEngine} - IOException caught in/192.168.18.49:50729(admin), session closed implictly: java.io.IOException: An existing connection was forcibly closed by the remote host
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.server.protocol.AMQProtocolEngine} - IOException caught in/192.168.18.49:50717(admin), session closed implictly: java.io.IOException: An existing connection was forcibly closed by the remote host
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.server.protocol.AMQProtocolEngine} - IOException caught in/192.168.18.49:50709(admin), session closed implictly: java.io.IOException: An existing connection was forcibly closed by the remote host
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.server.protocol.AMQProtocolEngine} - IOException caught in/192.168.18.49:50723(admin), session closed implictly: java.io.IOException: An existing connection was forcibly closed by the remote host
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.server.protocol.AMQProtocolEngine} - IOException caught in/192.168.18.49:50708(admin), session closed implictly: java.io.IOException: An existing connection was forcibly closed by the remote host
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.server.protocol.AMQProtocolEngine} - IOException caught in/192.168.18.49:50710(admin), session closed implictly: java.io.IOException: An existing connection was forcibly closed by the remote host
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.server.protocol.AMQProtocolEngine} - IOException caught in/192.168.18.49:50726(admin), session closed implictly: java.io.IOException: An existing connection was forcibly closed by the remote host
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.transport.network.mina.MinaNetworkHandler} - Exception caught by Mina java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.read(SocketIoProcessor.java:218)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.process(SocketIoProcessor.java:198)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor.access$400(SocketIoProcessor.java:45)
+	at org.wso2.org.apache.mina.transport.socket.nio.SocketIoProcessor$Worker.run(SocketIoProcessor.java:485)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+TID: [-1234] [] [2023-06-01 22:24:42,750] ERROR {org.wso2.andes.server.protocol.AMQProtocolEngine} - IOException caught in/192.168.18.49:50719(admin), session closed implictly: java.io.IOException: An existing connection was forcibly closed by the remote host
+TID: [-1234] [] [2023-06-01 22:24:42,870] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Error receiving message for Siddhi-JMS-Consumer javax.jms.JMSException: Message consumer forcibly closed due to error: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.BasicMessageConsumer.returnMessageOrThrow(BasicMessageConsumer.java:594)
+	at org.wso2.andes.client.BasicMessageConsumer.receive(BasicMessageConsumer.java:473)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.receiveMessage(JMSTaskManager.java:627)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.run(JMSTaskManager.java:533)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.closed(AMQProtocolHandler.java:274)
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.exception(AMQProtocolHandler.java:337)
+	at org.wso2.andes.transport.network.mina.MinaNetworkHandler.exceptionCaught(MinaNetworkHandler.java:89)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$TailFilter.exceptionCaught(AbstractIoFilterChain.java:562)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.common.IoFilterAdapter.exceptionCaught(IoFilterAdapter.java:75)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter.processEvent(ExecutorFilter.java:224)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter$ProcessEventsRunnable.run(ExecutorFilter.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	... 1 more
+
+TID: [-1234] [] [2023-06-01 22:24:42,950] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Error receiving message for Siddhi-JMS-Consumer javax.jms.JMSException: Message consumer forcibly closed due to error: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.BasicMessageConsumer.returnMessageOrThrow(BasicMessageConsumer.java:594)
+	at org.wso2.andes.client.BasicMessageConsumer.receive(BasicMessageConsumer.java:473)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.receiveMessage(JMSTaskManager.java:627)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.run(JMSTaskManager.java:533)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.closed(AMQProtocolHandler.java:274)
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.exception(AMQProtocolHandler.java:337)
+	at org.wso2.andes.transport.network.mina.MinaNetworkHandler.exceptionCaught(MinaNetworkHandler.java:89)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$TailFilter.exceptionCaught(AbstractIoFilterChain.java:562)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.common.IoFilterAdapter.exceptionCaught(IoFilterAdapter.java:75)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter.processEvent(ExecutorFilter.java:224)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter$ProcessEventsRunnable.run(ExecutorFilter.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	... 1 more
+
+TID: [-1234] [] [2023-06-01 22:24:42,990] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Error receiving message for Siddhi-JMS-Consumer javax.jms.JMSException: Message consumer forcibly closed due to error: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.BasicMessageConsumer.returnMessageOrThrow(BasicMessageConsumer.java:594)
+	at org.wso2.andes.client.BasicMessageConsumer.receive(BasicMessageConsumer.java:473)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.receiveMessage(JMSTaskManager.java:627)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.run(JMSTaskManager.java:533)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.closed(AMQProtocolHandler.java:274)
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.exception(AMQProtocolHandler.java:337)
+	at org.wso2.andes.transport.network.mina.MinaNetworkHandler.exceptionCaught(MinaNetworkHandler.java:89)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$TailFilter.exceptionCaught(AbstractIoFilterChain.java:562)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.common.IoFilterAdapter.exceptionCaught(IoFilterAdapter.java:75)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter.processEvent(ExecutorFilter.java:224)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter$ProcessEventsRunnable.run(ExecutorFilter.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	... 1 more
+
+TID: [-1234] [] [2023-06-01 22:24:43,030] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Error receiving message for Siddhi-JMS-Consumer javax.jms.JMSException: Message consumer forcibly closed due to error: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.BasicMessageConsumer.returnMessageOrThrow(BasicMessageConsumer.java:594)
+	at org.wso2.andes.client.BasicMessageConsumer.receive(BasicMessageConsumer.java:473)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.receiveMessage(JMSTaskManager.java:627)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.run(JMSTaskManager.java:533)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.closed(AMQProtocolHandler.java:274)
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.exception(AMQProtocolHandler.java:337)
+	at org.wso2.andes.transport.network.mina.MinaNetworkHandler.exceptionCaught(MinaNetworkHandler.java:89)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$TailFilter.exceptionCaught(AbstractIoFilterChain.java:562)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.common.IoFilterAdapter.exceptionCaught(IoFilterAdapter.java:75)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter.processEvent(ExecutorFilter.java:224)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter$ProcessEventsRunnable.run(ExecutorFilter.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	... 1 more
+
+TID: [-1234] [] [2023-06-01 22:24:43,070] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Error receiving message for Siddhi-JMS-Consumer javax.jms.JMSException: Message consumer forcibly closed due to error: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.BasicMessageConsumer.returnMessageOrThrow(BasicMessageConsumer.java:594)
+	at org.wso2.andes.client.BasicMessageConsumer.receive(BasicMessageConsumer.java:473)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.receiveMessage(JMSTaskManager.java:627)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.run(JMSTaskManager.java:533)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.closed(AMQProtocolHandler.java:274)
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.exception(AMQProtocolHandler.java:337)
+	at org.wso2.andes.transport.network.mina.MinaNetworkHandler.exceptionCaught(MinaNetworkHandler.java:89)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$TailFilter.exceptionCaught(AbstractIoFilterChain.java:562)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.common.IoFilterAdapter.exceptionCaught(IoFilterAdapter.java:75)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter.processEvent(ExecutorFilter.java:224)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter$ProcessEventsRunnable.run(ExecutorFilter.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	... 1 more
+
+TID: [-1234] [] [2023-06-01 22:24:43,070] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Error receiving message for Siddhi-JMS-Consumer javax.jms.JMSException: Message consumer forcibly closed due to error: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.BasicMessageConsumer.returnMessageOrThrow(BasicMessageConsumer.java:594)
+	at org.wso2.andes.client.BasicMessageConsumer.receive(BasicMessageConsumer.java:473)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.receiveMessage(JMSTaskManager.java:627)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.run(JMSTaskManager.java:533)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.closed(AMQProtocolHandler.java:274)
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.exception(AMQProtocolHandler.java:337)
+	at org.wso2.andes.transport.network.mina.MinaNetworkHandler.exceptionCaught(MinaNetworkHandler.java:89)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$TailFilter.exceptionCaught(AbstractIoFilterChain.java:562)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.common.IoFilterAdapter.exceptionCaught(IoFilterAdapter.java:75)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter.processEvent(ExecutorFilter.java:224)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter$ProcessEventsRunnable.run(ExecutorFilter.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	... 1 more
+
+TID: [-1234] [] [2023-06-01 22:24:43,078] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Error receiving message for Siddhi-JMS-Consumer javax.jms.JMSException: Message consumer forcibly closed due to error: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.BasicMessageConsumer.returnMessageOrThrow(BasicMessageConsumer.java:594)
+	at org.wso2.andes.client.BasicMessageConsumer.receive(BasicMessageConsumer.java:473)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.receiveMessage(JMSTaskManager.java:627)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.run(JMSTaskManager.java:533)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.closed(AMQProtocolHandler.java:274)
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.exception(AMQProtocolHandler.java:337)
+	at org.wso2.andes.transport.network.mina.MinaNetworkHandler.exceptionCaught(MinaNetworkHandler.java:89)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$TailFilter.exceptionCaught(AbstractIoFilterChain.java:562)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.common.IoFilterAdapter.exceptionCaught(IoFilterAdapter.java:75)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter.processEvent(ExecutorFilter.java:224)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter$ProcessEventsRunnable.run(ExecutorFilter.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	... 1 more
+
+TID: [-1234] [] [2023-06-01 22:24:43,102] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Error receiving message for Siddhi-JMS-Consumer javax.jms.JMSException: Message consumer forcibly closed due to error: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.BasicMessageConsumer.returnMessageOrThrow(BasicMessageConsumer.java:594)
+	at org.wso2.andes.client.BasicMessageConsumer.receive(BasicMessageConsumer.java:473)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.receiveMessage(JMSTaskManager.java:627)
+	at org.wso2.carbon.apimgt.common.jms.JMSTaskManager$MessageListenerTask.run(JMSTaskManager.java:533)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.wso2.andes.AMQDisconnectedException: Server closed connection and reconnection not permitted.
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.closed(AMQProtocolHandler.java:274)
+	at org.wso2.andes.client.protocol.AMQProtocolHandler.exception(AMQProtocolHandler.java:337)
+	at org.wso2.andes.transport.network.mina.MinaNetworkHandler.exceptionCaught(MinaNetworkHandler.java:89)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$TailFilter.exceptionCaught(AbstractIoFilterChain.java:562)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.common.IoFilterAdapter.exceptionCaught(IoFilterAdapter.java:75)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.callNextExceptionCaught(AbstractIoFilterChain.java:343)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain.access$1000(AbstractIoFilterChain.java:51)
+	at org.wso2.org.apache.mina.common.support.AbstractIoFilterChain$EntryImpl$1.exceptionCaught(AbstractIoFilterChain.java:641)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter.processEvent(ExecutorFilter.java:224)
+	at org.wso2.org.apache.mina.filter.executor.ExecutorFilter$ProcessEventsRunnable.run(ExecutorFilter.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.wso2.org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	... 1 more
+
+TID: [-1234] [] [2023-06-01 22:24:43,222] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - JMS Connection failed : Exception thrown against AMQConnection:
+Host: 192.168.18.49
+Port: 5672
+Virtual Host: carbon
+Client ID: clientid
+Active session count: 1 - shutting down worker tasks
+TID: [-1234] [] [2023-06-01 22:24:43,222]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt : 1 for Siddhi-JMS-Consumer
+TID: [-1234] [] [2023-06-01 22:24:43,222] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - JMS Connection failed : Exception thrown against AMQConnection:
+Host: 192.168.18.49
+Port: 5672
+Virtual Host: carbon
+Client ID: clientid
+Active session count: 1 - shutting down worker tasks
+TID: [-1234] [] [2023-06-01 22:24:43,222]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt : 1 for Siddhi-JMS-Consumer
+TID: [-1234] [] [2023-06-01 22:24:43,222] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - JMS Connection failed : Exception thrown against AMQConnection:
+Host: 192.168.18.49
+Port: 5672
+Virtual Host: carbon
+Client ID: clientid
+Active session count: 1 - shutting down worker tasks
+TID: [-1234] [] [2023-06-01 22:24:43,222]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt : 1 for Siddhi-JMS-Consumer
+TID: [-1234] [] [2023-06-01 22:24:43,318] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - JMS Connection failed : Exception thrown against AMQConnection:
+Host: 192.168.18.49
+Port: 5672
+Virtual Host: carbon
+Client ID: clientid
+Active session count: 1 - shutting down worker tasks
+TID: [-1234] [] [2023-06-01 22:24:43,318]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt : 1 for Siddhi-JMS-Consumer
+TID: [-1234] [] [2023-06-01 22:24:43,318] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - JMS Connection failed : Exception thrown against AMQConnection:
+Host: 192.168.18.49
+Port: 5672
+Virtual Host: carbon
+Client ID: clientid
+Active session count: 1 - shutting down worker tasks
+TID: [-1234] [] [2023-06-01 22:24:43,318]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt : 1 for Siddhi-JMS-Consumer
+TID: [-1234] [] [2023-06-01 22:24:43,318] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - JMS Connection failed : Exception thrown against AMQConnection:
+Host: 192.168.18.49
+Port: 5672
+Virtual Host: carbon
+Client ID: clientid
+Active session count: 1 - shutting down worker tasks
+TID: [-1234] [] [2023-06-01 22:24:43,318]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt : 1 for Siddhi-JMS-Consumer
+TID: [-1234] [] [2023-06-01 22:24:43,318] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - JMS Connection failed : Exception thrown against AMQConnection:
+Host: 192.168.18.49
+Port: 5672
+Virtual Host: carbon
+Client ID: clientid
+Active session count: 1 - shutting down worker tasks
+TID: [-1234] [] [2023-06-01 22:24:43,318]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt : 1 for Siddhi-JMS-Consumer
+TID: [-1234] [] [2023-06-01 22:24:43,318] ERROR {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - JMS Connection failed : Exception thrown against AMQConnection:
+Host: 192.168.18.49
+Port: 5672
+Virtual Host: carbon
+Client ID: clientid
+Active session count: 1 - shutting down worker tasks
+TID: [-1234] [] [2023-06-01 22:24:43,326]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt : 1 for Siddhi-JMS-Consumer
+TID: [-1234] [] [2023-06-01 22:24:44,331]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [] [2023-06-01 22:24:44,331]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for Siddhi-JMS-Consumer [re-]initialized
+TID: [-1234] [] [2023-06-01 22:24:44,339]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [] [2023-06-01 22:24:44,339]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [] [2023-06-01 22:24:44,339]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for Siddhi-JMS-Consumer [re-]initialized
+TID: [-1234] [] [2023-06-01 22:24:44,355]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [] [2023-06-01 22:24:44,355]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for Siddhi-JMS-Consumer [re-]initialized
+TID: [-1234] [] [2023-06-01 22:24:44,355]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [] [2023-06-01 22:24:44,355]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for Siddhi-JMS-Consumer [re-]initialized
+TID: [-1234] [] [2023-06-01 22:24:44,371]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [] [2023-06-01 22:24:44,371]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for Siddhi-JMS-Consumer [re-]initialized
+TID: [-1234] [] [2023-06-01 22:24:44,387]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [] [2023-06-01 22:24:44,387]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for Siddhi-JMS-Consumer [re-]initialized
+TID: [-1234] [] [2023-06-01 22:24:44,435]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [] [2023-06-01 22:24:44,435]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for Siddhi-JMS-Consumer [re-]initialized
+TID: [-1234] [] [2023-06-01 22:24:44,542]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Task manager for Siddhi-JMS-Consumer [re-]initialized
+TID: [-1234] [] [2023-06-01 22:24:46,101]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt: 1 for Siddhi-JMS-Consumer was successful!
+TID: [-1234] [] [2023-06-01 22:24:46,173]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt: 1 for Siddhi-JMS-Consumer was successful!
+TID: [-1234] [] [2023-06-01 22:24:46,173]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt: 1 for Siddhi-JMS-Consumer was successful!
+TID: [-1234] [] [2023-06-01 22:24:46,173]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt: 1 for Siddhi-JMS-Consumer was successful!
+TID: [-1234] [] [2023-06-01 22:24:46,197]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt: 1 for Siddhi-JMS-Consumer was successful!
+TID: [-1234] [] [2023-06-01 22:24:46,197]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt: 1 for Siddhi-JMS-Consumer was successful!
+TID: [-1234] [] [2023-06-01 22:24:46,237]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt: 1 for Siddhi-JMS-Consumer was successful!
+TID: [-1234] [] [2023-06-01 22:24:46,237]  INFO {org.wso2.carbon.apimgt.common.jms.JMSTaskManager} - Reconnection attempt: 1 for Siddhi-JMS-Consumer was successful!

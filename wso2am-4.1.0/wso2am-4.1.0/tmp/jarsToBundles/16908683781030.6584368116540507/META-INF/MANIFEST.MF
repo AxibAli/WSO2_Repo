@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+DynamicImport-Package: *
+Bundle-ManifestVersion: 2
+Bundle-Name: mysql_connector_j_8.1.0
+Bundle-SymbolicName: mysql_connector_j_8.1.0
+Bundle-Version: 1.0.0
+Export-Package: com.mysql.cj,com.mysql.cj.admin,com.mysql.cj.callback,co
+ m.mysql.cj.conf,com.mysql.cj.conf.url,com.mysql.cj.exceptions,com.mysql
+ .cj.interceptors,com.mysql.cj.jdbc,com.mysql.cj.jdbc.admin,com.mysql.cj
+ .jdbc.exceptions,com.mysql.cj.jdbc.ha,com.mysql.cj.jdbc.integration.c3p
+ 0,com.mysql.cj.jdbc.interceptors,com.mysql.cj.jdbc.jmx,com.mysql.cj.jdb
+ c.result,com.mysql.cj.jdbc.util,com.mysql.cj.log,com.mysql.cj.protocol,
+ com.mysql.cj.protocol.a,com.mysql.cj.protocol.a.authentication,com.mysq
+ l.cj.protocol.a.result,com.mysql.cj.protocol.result,com.mysql.cj.protoc
+ ol.x,com.mysql.cj.result,com.mysql.cj.sasl,com.mysql.cj.util,com.mysql.
+ cj.x.protobuf,com.mysql.cj.xdevapi,com.mysql.jdbc
+Bundle-ClassPath: .,mysql-connector-j-8.1.0.jar
+
